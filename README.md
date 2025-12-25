@@ -66,20 +66,6 @@ The objective is to identify key service strengths, pain points, and improvement
 
 ---
 
-## 🎥 Demo Video
-
-📌 *(Add when uploaded)*  
-`[Video Link Here]`
-
----
-
-## 📎 Report PDF
-
-🔗 *Attach or link here*  
-`British_Airways_Report.pdf`
-
----
-
 ## ⭐ About This Project
 
 This project demonstrates how raw customer survey data can be transformed into a **business-ready BI dashboard** to support decision-making for airline service strategy and quality enhancement.
